@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @QureL
-- 👀 I’m interested in van♂游戏
-- 🌱 I’m currently learning deep♂dark♂fantasy
-- 💞️ I’m looking to collaborate on 广东老乡♂
-- 📫 How to reach me ...
+- 👀 I’m interested in body building, anime, calligraphy
+- 🌱 I’m currently learning langchain
 
 <!---
 QureL/QureL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
